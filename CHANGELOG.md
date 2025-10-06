@@ -55,7 +55,7 @@ limited backward compatibility for v0.10 and v0.9. Please upgrade to Borsh v1.
 * Entries in this log are intended to be easily understood by contributors,
 consensus validator operators, rpc operators, and dapp developers.
 
-### Noteworthy
+Noteworthy
 * A change is noteworthy if it:
   * Adds a feature gate, or
   * Implements a SIMD, or
